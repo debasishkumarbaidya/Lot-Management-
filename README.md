@@ -43,9 +43,13 @@ All the comparison are case insensitive.
 product_id is unique in input.
 
 
+
+
 using System;
 
+
 namespace LotManagement
+
 {
     class Product
     {
