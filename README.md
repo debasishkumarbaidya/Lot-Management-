@@ -42,6 +42,7 @@ Note :
 All the comparison are case insensitive.
 product_id is unique in input.
 
+🍁🍁 Answer 👇🏻
 
 
 using System;
@@ -49,6 +50,7 @@ using System;
 namespace LotManagement
 
 {
+
     class Product
     
     {
