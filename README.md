@@ -44,20 +44,24 @@ product_id is unique in input.
 
 
 
-
 using System;
-
 
 namespace LotManagement
 
 {
     class Product
+    
     {
         private int productId;
+        
         private string productName;
+        
         private int productPrice;
+        
         private int productQuantity;
+        
         private int lotNo;
+        
 
         public Product(string productName, int productPrice, int productQuantity, int lotNo)
         {
